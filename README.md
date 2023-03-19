@@ -22,4 +22,5 @@ The results of this analysis show a clear difference in maternal mortality rates
 This project provides insight into the importance of data analysis in medical research, and highlights the crucial role that Dr. Ignaz Semmelweis played in advancing medical knowledge through his discovery of the importance of handwashing. By analyzing historical data on maternal mortality rates at Vienna General Hospital, this project demonstrates the power of data analysis in uncovering important trends and insights that can lead to significant improvements in public health.
 
 Here's how you can wash your hands like a surgeon:
-![](https://img-c.udemycdn.com/redactor/raw/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif)
+<br /><br />
+![ezgif com-optimize](https://user-images.githubusercontent.com/94699055/226207561-318378e1-2c40-4bbe-8f3a-c1bce8f96249.gif)
